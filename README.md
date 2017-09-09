@@ -74,6 +74,14 @@ function clientSideInclude(id, url) {
 
 #### Html iframe 
 
+
+<iframe style="box-sizing: border-box;-moz-box-sizing: border-box;-webkit-box-sizing: border-box;margin: 0.5% 0.5% 0.5% 
+
+0.5%;padding: 0.5%;" src="https://rawcdn.githack.com/bedjan/web_home/master/foot.html" align="left" frameborder="0" 
+
+width="100%" height="auto" scrolling="no" target="_parent">https://github.com/bedjan/web_home/raw/master/....html</iframe>
+
+
 <iframe src="http://htmlpreview.github.io/?https://...." align="left"
 frameborder="0" width="90%" height="300" scrolling="yes" target="_parent"></iframe>
 
