@@ -80,3 +80,15 @@ frameborder="0" width="90%" height="300" scrolling="yes" target="_parent"></ifra
 ####  Raw githack
 
 https://raw.githack.com/
+
+Use this URL for development
+
+example: https://raw.githack.com/bedjan/web_home/master/obsah.html
+
+#### Permalink
+
+http://jdem.cz/trvalink.html
+
+#### Web s heslem
+
+http://jdem.cz/heslo.html
