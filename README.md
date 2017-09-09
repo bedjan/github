@@ -6,6 +6,8 @@ https://git-scm.com/book/cs/v2
 
 #### Html preview
 
+http://htmlpreview.github.io/
+
 http://htmlpreview.github.io/?https://.....
 
 #### Html include
