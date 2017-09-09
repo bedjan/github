@@ -102,3 +102,10 @@ http://jdem.cz/trvalink.html
 #### Web s heslem
 
 http://jdem.cz/heslo.html
+
+#### Svg obrázek v htmk 
+
+<svg height="60" width="200">
+ <text x="0" y="15" fill="#0D6AB7" transform="rotate(30 20,40)">"Osobní stránky"</text>
+ váš web prohlížeč obrázek nepřečte
+</svg>
