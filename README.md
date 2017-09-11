@@ -10,6 +10,24 @@ http://htmlpreview.github.io/
 
 http://htmlpreview.github.io/?https://.....
 
+### Gist:
+
+[Gist](https://gist.github.com/bedjan)
+
+### Markdown syntaxe:
+
+https://daringfireball.net/projects/markdown/syntax
+
+http://jecas.cz/markdown
+
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+### Html do markdown:
+
+[Html do markdown primo soubor](https://cloudconvert.com/html-to-md)
+[Html do markdown](https://domchristie.github.io/to-markdown/)
+
+
 #### Html include
 
 https://www.boutell.com/newfaq/creating/include.html
