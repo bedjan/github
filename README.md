@@ -133,3 +133,8 @@ http://jdem.cz/heslo.html
 </svg>
 
 </html>
+
+
+#### DNS servery ČR
+
+https://public-dns.info/nameserver/cz.html
