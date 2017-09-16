@@ -1,5 +1,21 @@
 # Github
 
+#### Markdown preview
+
+http://markdownlivepreview.com/
+
+#### Simplenote syntax
+
+https://sourceforge.net/p/simplenotefran/wiki/markdown_syntax/
+
+#### html to markdown
+
+https://domchristie.github.io/to-markdown/
+
+#### markdown to html
+
+https://www.browserling.com/tools/markdown-to-html
+
 #### kniha
 
 https://git-scm.com/book/cs/v2
