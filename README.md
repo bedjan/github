@@ -1,5 +1,10 @@
 # Github
 
+##### Klávesové zkratky 
+
+http://www.ceskaklavesnice.cz/zkratky
+
+
 ##### Word to markdown
 
 https://wordhtml.com/
